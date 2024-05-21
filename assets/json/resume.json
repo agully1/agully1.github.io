@@ -1,114 +1,110 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Amelia Gully",
+    "label": "Lecturer in Speech Science",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "amelia.gully@york.ac.uk",
+    "url": "https://www.ameliagully.com",
+    "summary": "Speech scientist studying how individual voices vary"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Department of Language and Linguistic Science, University of York",
+      "position": "Lecturer in Speech Science",
+      "startDate": "2023",
+      "summary": "",
+      "highlights": [""]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Department of Language and Linguistic Science, University of York",
+      "position": "British Academy Postdoctoral Fellow",
+      "startDate": "2019",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "Department of Language and Linguistic Science, University of York",
+      "position": "Research Associate (Voice and Identity)",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "Department of Electronic Engineering, University of York",
+      "position": "Associate Lecturer (maternity cover)",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "Department of Electronic Engineering, University of York",
+      "position": "Research Associate (maternity cover)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "Department of Electronic Engineering, University of York",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2013",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of York, York, UK",
+      "location": "York, UK",
+      "url": "",
+      "area": "Diphthong synthesis using the three-dimensional dynamic digital waveguide mesh",
+      "studyType": "PhD Electronic Engineering",
+      "startDate": "2013",
+      "endDate": "2018",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "University of York, York, UK",
+      "location": "York, UK",
+      "url": "",
+      "area": "Distinction",
+      "studyType": "MSc Digital Signal Processing",
+      "startDate": "2012",
+      "endDate": "2013",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "University of Salford, Salford, UK",
+      "location": "Salford, UK",
+      "url": "",
+      "area": "First Class Honours",
+      "studyType": "BSc (Hons) Audio Technology",
+      "startDate": "2006",
+      "endDate": "2010",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Sparks Award",
+      "date": "2023",
+      "awarder": "University of York",
+      "url": "",
+      "summary": "Awarded by the University of York for novel interdisciplinary research with headroom to grow (value £300,000). Co-awardees: Vincent Hughes and Sophie Meekings."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "UKRI Enhancing Research Culture Fund",
+      "date": "2022",
+      "awarder": "University of York",
+      "url": "",
+      "summary": "Setting up a departmental Early Career Forum (value £2,500)."
     }
   ],
   "publications": [
@@ -134,7 +130,7 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
+  "skills and testing testing": [
     {
       "name": "Physics",
       "level": "Master",
@@ -149,18 +145,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Physics",
@@ -173,18 +157,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
